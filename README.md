@@ -131,7 +131,7 @@ Here are a few of the answers to select challenges.
   <summary>Click to see solution</summary>
 
   ```python
-  print(count("i"))
+  print(name.count("i"))
   ```
 
 </details>
