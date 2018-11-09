@@ -70,7 +70,7 @@ age = age + 1
 
 This second method of assignment is slightly more complicated, but basically the left side of the equals sign says which variable we are changing, and the right side says what we are changing it to.
 
-One way to read this is `(our new value for) age = (our current value for age) + 1`.
+One way to read this is `(our new value for) age = (our current value for) age + 1`.
 
 The literal assignment would only be accurate for someone who is turning 18. The more flexible second assignment would work for ANY age; it just adds 1 to the current value, WHATEVER that value is.
 
@@ -86,7 +86,7 @@ Since the python file is called `speak.py`, you can run it by entering the comma
 
 We've already shown you a really wonderful (but weird) built-in method called swapcase, but that's just one of dozens. To see more, you'll want to look at what's called "Documentation". The word "Documentation" refers to the user's guide to a programming language or library.
 
-Python has EXCELLENT documentation. You can get there pretty simply by searching for "Python String Methods" (or whatever topic you'd like to see explained). Results in the "docs.python.org" domain are official but there are lots of other great resources online so look around.
+Python has GREAT documentation. You can get there pretty simply by searching for "Python String Methods" (or whatever topic you'd like to see explained). Results in the "docs.python.org" domain are official but there are lots of other great resources online so look around.
 
 Take a look at this screen grab from Python's documentation:
 
@@ -98,7 +98,7 @@ It clearly explains what the method does and how to use it on a string.
 
 Some of the methods have a very natural human feel to them (like the `.upper()` method, for example) and you may be able to understand what they do immediately. Others (like `.maketrans()`) may seem a lot stranger, and will only make sense once you've seen some more complex code.
 
-To navigate documentation efficiently, many developers use `cmd + f` or `ctrl + f` to pull up the "find" text field. They then use related keywords to jump straight to the information they need. If you want to figure out how to make a string print out backwards, try typing words like "backwards" or "reverse" in the find field.
+To navigate documentation efficiently, many developers use `cmd + f` or `ctrl + f` to pull up the "find" text field. They then use related keywords to jump straight to the information they need. If you want to figure out how many occurences of a substring are in a string, try typing words like "count" or "substring" in the find field.
 
 ## If you get stuck...
 
