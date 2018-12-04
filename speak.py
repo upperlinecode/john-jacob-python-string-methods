@@ -32,7 +32,7 @@ name = "John Jacob Jingleheimer Schmidt"
 # 10. Print out only the first ten letters of the string but make them all uppercase.
 
 
-# 11. Try to print out the string "tdimhcS remiehelgniJ bocaJ nhoJ" (which is the name backwards)
+# 11. CHALLENGE: Try to print out the string "tdimhcS remiehelgniJ bocaJ nhoJ" (which is the name backwards)
 
 
-# 12. Chain two methods together to print out the string "TDIMHCS REMIEHELGNIJ BOCAJ NHOJ", (which is the name in uppercase and backwards).
+# 12. CHALLENGE: Chain two methods together to print out the string "TDIMHCS REMIEHELGNIJ BOCAJ NHOJ", (which is the name in uppercase and backwards).
