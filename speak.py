@@ -8,7 +8,7 @@ name = "John Jacob Jingleheimer Schmidt"
 # 2. Use print and a built-in method to print out the string "JOHN JACOB JINGELHEIMER SCHMIDT"
 
 
-# 3. Use print and a built-in method to find out how many characters are in Mr. Schmidt's name.
+# 3. Use print and a built-in function to find out how many characters are in Mr. Schmidt's name.
 
 
 # 4. Use print and a built-in method to count how many times the letter i is in Mr. Schmidt's name.
@@ -23,7 +23,7 @@ name = "John Jacob Jingleheimer Schmidt"
 # 7. Chain a few methods together to print out the string with all the vowels removed. 
 
 
-# 8. Try to print the name as four separate strings by using a method that will split it up like this: ["John", "Jacob", "Jingleheimer", "Schmidt"]
+# 8. Try to print the name as four separate strings by using a function that will split it up like this: ["John", "Jacob", "Jingleheimer", "Schmidt"]
 
 
 # 9. Print out only the first four letters of the string.
