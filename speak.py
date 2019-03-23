@@ -8,13 +8,13 @@ name = "John Jacob Jingleheimer Schmidt"
 # 2. Use print and a built-in method to print out the string "JOHN JACOB JINGELHEIMER SCHMIDT"
 
 
-# 3. Use print and a built-in function to find out how many characters are in Mr. Schmidt's name.
+# 3. Use print and a built-in method to count how many times the letter i is in Mr. Schmidt's name.
 
 
-# 4. Use print and a built-in method to count how many times the letter i is in Mr. Schmidt's name.
+# 4. Use print and a built-in method to print out Mr. Schmidt's name, but with all the instances of the letter i removed or deleted.
 
 
-# 5. Use print and a built-in method to print out Mr. Schmidt's name, but with all the instances of the letter i removed or deleted.
+# 5. Use print and a built-in function to find out how many characters are in Mr. Schmidt's name.
 
 
 # 6. Use a built-in method to replace every letter J with the letter G instead. Bonus point if you can say the result out loud without laughing.
