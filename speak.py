@@ -15,7 +15,7 @@ name = "John Jacob Jingleheimer Schmidt"
 
 
 # 5. Use print and a built-in function to find out how many characters are in Mr. Schmidt's name.
-## NOTE that since this is a funciton and not a method, the best solution won't be on the string methods page - you'll need to Google this one. 
+## NOTE that since this is a function and not a method, the best solution won't be on the string methods page - you'll need to Google this one. 
 
 
 # 6. Use a built-in method to replace every letter J with the letter G instead. Bonus point if you can say the result out loud without laughing.
