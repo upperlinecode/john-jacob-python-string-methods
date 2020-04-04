@@ -24,7 +24,7 @@ name = "John Jacob Jingleheimer Schmidt"
 # 7. Chain a few methods together to print out the string with all the vowels removed. 
 
 
-# 8. Try to print the name as four separate strings by using a function that will split it up like this: ["John", "Jacob", "Jingleheimer", "Schmidt"]
+# 8. Try to print the name as four separate strings by using a method that will split it up like this: ["John", "Jacob", "Jingleheimer", "Schmidt"]
 
 
 # 9. Print out only the first four letters of the string.
